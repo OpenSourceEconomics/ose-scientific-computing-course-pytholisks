@@ -2,8 +2,7 @@
 pydsge
 ======
 
-.. image:: https://github.com/pcschreiber1/pydsge_OSE_Project_Fork/workflows/Continuous%20Integration%20Workflow/badge.svg?branch=master
-    :target: https://github.com/pcschreiber1/pydsge_OSE_Project_Fork/actions?query=branch%3Aimplementing_CI
+.. image:: https://img.shields.io/github/workflow/status/OpenSourceEconomics/ose-scientific-computing-course-pytholisks/Continuous%20Integration%20Workflow?label=Continuous%20Integration&logo=github   :alt: GitHub Workflow Status
 
 ----
 
