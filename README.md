@@ -1,6 +1,6 @@
 # Summary of OSE Scientific Computing Project on `pydsge` (by Yuxin, Altaf and Philipp)
 ---
-https://img.shields.io/github/workflow/status/OpenSourceEconomics/ose-scientific-computing-course-pytholisks/Continuous%20Integration%20Workflow?label=Continuous%20Integration&logo=github
+![Continuous Integration](https://img.shields.io/github/workflow/status/OpenSourceEconomics/ose-scientific-computing-course-pytholisks/Continuous%20Integration%20Workflow?label=Continuous%20Integration&logo=github)
 
 ## Testing with pytest
  - A testing suite for regression testing of the tutorial(s) was created
