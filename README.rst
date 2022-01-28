@@ -1,5 +1,5 @@
 
-pydsge
+Scientific Course Project (Summary available `here <https://docs.google.com/document/d/1kWifKdqk_KpfPecELgSkH08Cj23xyQV2hYSu_m4Rjg0/edit#heading=h.al3a8ckqnc2u>`_.
 ======
 
 .. image:: https://github.com/pcschreiber1/pydsge_OSE_Project_Fork/workflows/Continuous%20Integration%20Workflow/badge.svg?branch=master
