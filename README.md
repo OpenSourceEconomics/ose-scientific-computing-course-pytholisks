@@ -9,7 +9,7 @@
 ## Multiprocessing on Windows
  - A pull-request with the relevant changes was created for grglib
  - Gregor’s simplifications were adopted
- - for documentation purposes and Prof. Eisenhauer, full details are provided in [Summary.pdf](https://github.com/OpenSourceEconomics/ose-scientific-computing-course-pytholisks/Summary.pdf)
+ - for documentation purposes and Prof. Eisenhauer, full details are provided in [Summary.pdf](https://docs.google.com/document/d/1kWifKdqk_KpfPecELgSkH08Cj23xyQV2hYSu_m4Rjg0/edit?usp=sharing)
 ## Estimation Tutorial
  - An estimation tutorial for pydsge was created based on a script provided by Gregor
  - Several issues that were discovered in the process were fixed, documentation was improved
